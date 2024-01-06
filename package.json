@@ -1,0 +1,41 @@
+{
+  "name": "rn-expo-minimal-app-template",
+  "version": "0.0.1",
+  "main": "node_modules/expo/AppEntry.js",
+  "type": "module",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "~49.0.15",
+    "expo-status-bar": "~1.6.0",
+    "react": "18.2.0",
+    "react-native": "0.72.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true,
+  "author": {
+    "name": "Md. Jamal Uddin",
+    "url": "https://jaamaal.com",
+    "email": "jaamaalxyz@gmail.com"
+  },
+  "description": "A minimal universal app template using React Native and Expo that includes navigation, state management, and commonly used tools and best practices.",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/jaamaal/rn-expo-minimal-app-template#readme",
+  "keywords": [
+    "react-native",
+    "expo",
+    "template",
+    "minimal",
+    "universal",
+    "app"
+  ]
+}
